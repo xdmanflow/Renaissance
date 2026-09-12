@@ -28,7 +28,7 @@ This repository tracks a two-year self-study program built to close a real gap: 
 
 ## Objectives
 
-- Rebuild real mathematical foundations, from Terminale through engineering level, verified by diagnostics rather than assumed
+- Rebuild real mathematical foundations, from Terminale through engineering level, verified rather than assumed
 - Write code independently, without AI assistance, across general computer science and applied AI/DS
 - Gain a working knowledge of electronics and computer architecture
 - Reach a strong operational level in English, with working knowledge of Spanish and German
