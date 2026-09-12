@@ -1,6 +1,6 @@
 # Renaissance
 
-Self-study program to rebuild mathematics, computer science, electronics, and languages from Terminale level through engineering level (Bac+5), run in parallel with a computer engineering degree. Saturdays: computer science & electronics. Sundays: mathematics & languages.
+Self-study program to rebuild mathematics, computer science, electronics, and languages from Terminale level through engineering level (Bac+5), run in parallel with a computer engineering degree. Saturdays: computer science. Sundays: mathematics & languages.
 
 ## Table of Contents
 
