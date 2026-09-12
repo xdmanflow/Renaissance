@@ -1,4 +1,4 @@
-# Renaissance
+# Renaissance Computer Science Engineering Project
 
 Self-study program to rebuild mathematics, computer science, electronics, and languages from Terminale level through engineering level (Bac+5), run in parallel with a computer science degree. Saturdays: computer science & electronics. Sundays: mathematics & languages.
 
