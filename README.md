@@ -55,12 +55,12 @@ This repository tracks a two-year self-study program built to close a real gap: 
 
 ## Learning Plan
 
-| Phase | Period | Topics Targeted | 
-|---|---|---|---|
-| 1 — Foundations | Sep – Nov 2026 | Python, SQL, Terminale mathematics diagnostic & rebuild, English | 
-| Reintegration | Dec 2026 | Azure AI-900, Kaggle onboarding, closing remaining maths gaps | 
-| 2 — ML Ramp-Up | Jan – Apr 2027 | Classical ML, algorithms & data structures, applied statistics, first project | 
-| 3 — Specialization | Apr – Aug 2027 | Deep learning, discrete/complex mathematics, electronics fundamentals, Spanish | 
+| Phase | Period | Topics Targeted |
+|---|---|---|
+| 1 — Foundations | Sep – Nov 2026 | Python, SQL, Terminale mathematics diagnostic & rebuild, English |
+| Reintegration | Dec 2026 | Azure AI-900, Kaggle onboarding, closing remaining maths gaps |
+| 2 — ML Ramp-Up | Jan – Apr 2027 | Classical ML, algorithms & data structures, applied statistics, first project |
+| 3 — Specialization | Apr – Aug 2027 | Deep learning, discrete/complex mathematics, electronics fundamentals, Spanish |
 | 4 — Deployment | Aug 2027 – Feb 2028 | MLOps, system design, avionics software standards, NLP/generative AI, German |
 | 5 — Consolidation | Mar – Sep 2028 | Final-year project, full-curriculum review, applications |
 
