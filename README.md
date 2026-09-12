@@ -103,5 +103,3 @@ Renaissance/
 - Official documentation for tools used (Python, scikit-learn, TensorFlow, Docker, AWS, Azure)
 - Certification syllabi: Azure AI-900, AWS Certified Machine Learning – Specialty, DeepLearning.AI specializations (Deep Learning, NLP, Generative AI with LLMs), TensorFlow Developer Certificate
 - Language exam preparation: TOEIC / Cambridge C2, DELE, Goethe-Zertifikat B1
-
-*(To be filled in with specific links as the program progresses.)*
