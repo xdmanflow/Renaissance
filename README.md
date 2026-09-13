@@ -30,7 +30,7 @@ This repository tracks a two-year self-study program built to close a real gap: 
 
 - Rebuild real mathematical foundations, from Terminale through engineering level, verified rather than assumed
 - Write code independently, without AI assistance, across general computer science and applied AI/DS
-- Reach a strong operational level in English, with working knowledge of Spanish and German
+- Reach a strong level in English, with working knowledge of Spanish and German
 - Build a small portfolio of real, defensible projects
 - Obtain a coherent set of recognized certifications
 
