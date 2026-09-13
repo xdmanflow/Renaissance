@@ -37,7 +37,7 @@ This repository tracks a two-year self-study program built to close a real gap: 
 ## Skills Targeted
 
 - Python, SQL, and standard data/ML tooling
-- Core mathematics: analysis, algebra, probability & statistics, discrete mathematics, numerical methods, optimization
+- Mathematics: analysis, algebra, probability & statistics, discrete mathematics, numerical methods, optimization
 - General computer science: algorithms & data structures, operating systems, networks, databases, distributed systems, security, system design
 - Applied AI/DS: classical machine learning, deep learning, NLP, generative AI, MLOps
 - Rigorous, self-directed study habits and clear technical documentation
