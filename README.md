@@ -58,8 +58,8 @@ This repository tracks a two-year self-study program built to close a real gap: 
 | Foundations | Sep – Nov 2026 | Python, SQL, Terminale mathematics diagnostic & rebuild, English |
 | Reintegration | Dec 2026 | Azure AI-900, Kaggle onboarding, closing remaining maths gaps |
 | ML Ramp-Up | Jan – Apr 2027 | Classical ML, algorithms & data structures, applied statistics, first project |
-| Specialization | Apr – Aug 2027 | Deep learning, discrete/complex mathematics, Spanish |
-| Deployment | Aug 2027 – Feb 2028 | MLOps, system design, avionics software standards, NLP/generative AI, German |
+| Specialization | Apr – Aug 2027 | Deep learning, discrete/complex mathematics |
+| Deployment | Aug 2027 – Feb 2028 | MLOps, system design, avionics software standards, NLP/generative AI |
 | Consolidation | Mar – Sep 2028 | Final-year project, full-curriculum review, applications |
 
 ## Projects
@@ -97,6 +97,5 @@ Renaissance/
 ## Useful Resources
 
 - Reference textbooks and course notes per subject (added as the program progresses)
-- Official documentation for tools used (Python, scikit-learn, TensorFlow, Docker, AWS, Azure)
-- Certification syllabi: Azure AI-900, AWS Certified Machine Learning – Specialty, DeepLearning.AI specializations (Deep Learning, NLP, Generative AI with LLMs), TensorFlow Developer Certificate
-- Language exam preparation: TOEIC / Cambridge C2, DELE, Goethe-Zertifikat B1
+- Official documentation for tools used during the learning process (Python, scikit-learn, TensorFlow, Docker, AWS, Azure)
+- Certifications: Azure AI-900, AWS Certified Machine Learning – Specialty, DeepLearning.AI specializations (Deep Learning, NLP, Generative AI with LLMs), TensorFlow Developer Certificate
