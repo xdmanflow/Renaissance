@@ -48,7 +48,7 @@ This repository tracks a two-year self-study program built to close a real gap: 
 | --- | --- |
 | Mathematics (Saturday) | Real & complex analysis, linear & abstract algebra, ODEs, probability & statistics, discrete mathematics, numerical methods, optimization, Fourier analysis, control theory, vector calculus |
 | Computer Science (Sunday) | Algorithms & data structures, OS, networks, databases, distributed systems, system design, security, MLOps, classical & symbolic AI, reinforcement learning, generative AI, computer architecture, GPU/TPU hardware for AI |
-| Languages (Saturday, English-led) | English (TOEIC → C2); Spanish (DELE) and German (Goethe-Zertifikat) integrated later in the program |
+| Languages (English) | English (TOEIC → C2) |
 | Industry-specific | DO-178C, DO-254, DO-326A, ARP4754A (software/systems safety standards), GDPR & AI ethics |
 
 ## Learning Plan
