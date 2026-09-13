@@ -97,5 +97,5 @@ Renaissance/
 ## Useful Resources
 
 - Reference textbooks and course notes per subject (added as the program progresses)
-- Official documentation for tools used during the learning process (Python, scikit-learn, TensorFlow, Docker, AWS, Azure)
+- Official documentation for tools used during the process (Python, scikit-learn, TensorFlow, Docker, AWS, Azure)
 - Certifications: Azure AI-900, AWS Certified Machine Learning – Specialty, DeepLearning.AI specializations (Deep Learning, NLP, Generative AI with LLMs), TensorFlow Developer Certificate
