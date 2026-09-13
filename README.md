@@ -1,4 +1,4 @@
-# Renaissance Computer Science Engineer Study Plan Project
+# Renaissance Computer Science Engineer Study Plan
 
 Self-study program to rebuild mathematics, computer science, and languages from Terminale level through CS Engineer level (Bac+5), run in parallel with a computer science degree. **Saturdays: mathematics & English. Sundays: computer science engineering.**
 
