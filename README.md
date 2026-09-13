@@ -46,7 +46,7 @@ This repository tracks a two-year self-study program built to close a real gap: 
 
 | Domain | Content |
 | --- | --- |
-| Mathematics (Saturday) | Real & complex analysis, linear & abstract algebra, probability & statistics, discrete mathematics, numerical methods, optimization, Fourier analysis, control theory, vector calculus |
+| Mathematics (Saturday) | Real & complex analysis, linear & abstract algebra, probability & statistics, discrete mathematics, numerical methods, optimization, Fourier analysis, vector calculus |
 | Computer Science (Sunday) | Algorithms & data structures, OS, networks, databases, distributed systems, system design, security, MLOps, classical & symbolic AI, reinforcement learning, generative AI, computer architecture, GPU/TPU hardware for AI |
 | Languages (English) | English (TOEIC → C1) |
 | Industry-specific | DO-178C, DO-254, DO-326A, ARP4754A (software/systems safety standards) |
