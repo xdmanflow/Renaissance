@@ -2,10 +2,6 @@
 
 > A public, one-year learning plan (Sept. 2026 → Sept. 2027) covering mathematics for machine learning, computer-science fundamentals, data engineering, machine learning, cloud and generative AI, with every weekend's learning applied to AeroLisa, a Skywise-inspired aviation data platform built only on public data. This is an independent learning project, not affiliated with, endorsed by, or connected to Airbus, Skywise or Palantir.
 
-## The goal
-
-An engineering alternance in aviation data and AI starting **September 2027**, with a portfolio that proves the skills instead of listing them.
-
 ## Two repositories, two roles
 
 | Repository | Role |
