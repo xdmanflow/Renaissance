@@ -1,6 +1,6 @@
 # Renaissance Project: The Way to the Peak in CS & Maths
 
-> A public, one-year learning plan (Sept. 2026 → Sept. 2027): mathematics for machine learning, computer-science fundamentals, data engineering, machine learning, cloud and generative AI. Every weekend's learning is applied to **[Aerolisa](https://github.com/YOUR-USERNAME/aerolisa)**, a Skywise-inspired aviation data platform.
+> A public, one-year learning plan (Sept. 2026 → Sept. 2027): mathematics for machine learning, computer-science fundamentals, data engineering, machine learning, cloud and generative AI. Every weekend's learning is applied to **[AeroLisa](https://github.com/YOUR-USERNAME/aerolisa)**, a Skywise-inspired aviation data platform.
 
 > **Independent learning project, not affiliated with, endorsed by, or connected to Airbus, Palantir or Skywise.** Only public data is used. Company and product names are cited for context only.
 
@@ -13,7 +13,7 @@ An engineering alternance in aviation data and AI starting **September 2027**, w
 | Repository | Role |
 |---|---|
 | **Renaissance Project** (this repo) | *Learning*: plan, weekly exercises, notes, checkpoints, progress |
-| **[Aerolisa](https://github.com/YOUR-USERNAME/aerolisa)** | *Application*: the platform where everything learned here is built and shipped |
+| **[AeroLisa](https://github.com/YOUR-USERNAME/aerolisa)** | *Application*: the platform where everything learned here is built and shipped |
 
 ## How it works
 
