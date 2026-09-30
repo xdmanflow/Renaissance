@@ -2,8 +2,6 @@
 
 > A public, one-year learning plan (Sept. 2026 → Sept. 2027): mathematics for machine learning, computer-science fundamentals, data engineering, machine learning, cloud and generative AI. Every weekend's learning is applied to **[Aerolisa](https://github.com/YOUR-USERNAME/aerolisa)**, a Skywise-inspired aviation data platform.
 
-![weekends](https://img.shields.io/badge/weekends-38-blue) ![checkpoints](https://img.shields.io/badge/checkpoints-4-orange) ![start](https://img.shields.io/badge/start-Sept%202026-green) ![summit](https://img.shields.io/badge/summit-Sept%202027-purple)
-
 > **Independent learning project, not affiliated with, endorsed by, or connected to Airbus, Palantir or Skywise.** Only public data is used. Company and product names are cited for context only.
 
 ## The goal
