@@ -1,101 +1,88 @@
-# Renaissance Computer Science Engineer Study Plan
+# 🏔️ Renaissance Project: The Way to the Peak in Computer Science
 
-Self-study program to rebuild mathematics, computer science, and languages from Terminale level through CS Engineer level (Bac+5), run in parallel with a computer science degree. **Saturdays: mathematics & English. Sundays: computer science engineering.**
+> A public, one-year learning plan (Sept. 2026 → Sept. 2027): mathematics for machine learning, computer-science fundamentals, data engineering, machine learning, cloud and generative AI. Every weekend's learning is applied to **[Aerolisa](https://github.com/YOUR-USERNAME/aerolisa)**, a Skywise-inspired aviation data platform.
 
-## Table of Contents
+![weekends](https://img.shields.io/badge/weekends-38-blue) ![checkpoints](https://img.shields.io/badge/checkpoints-4-orange) ![start](https://img.shields.io/badge/start-Sept%202026-green) ![summit](https://img.shields.io/badge/summit-Sept%202027-purple)
 
-- About the Program
-- Objectives
-- Skills Targeted
-- Areas Covered
-- Learning Plan
-- Projects
-- Repo Structure
-- Useful Resources
+> **Independent learning project, not affiliated with, endorsed by, or connected to Airbus, Palantir or Skywise.** Only public data is used. Company and product names are cited for context only.
 
-## About the Program
+## The goal
 
-This repository tracks a two-year self-study program built to close a real gap: several years into a computer science engineering degree, core fundamentals in mathematics, physics, and hands-on coding had never been properly built, in part because AI tools had been doing the work instead of me. This program rebuilds that foundation from the ground up — starting from a real diagnostic rather than an assumption — while also going beyond it into full engineering-level mathematics, general computer science, and applied AI/Data Science, with the aim of working as an AI/Data Science engineer in an engineering-intensive industry (aerospace, defense, or technology).
+An engineering alternance in aviation data and AI starting **September 2027**, with a portfolio that proves the skills instead of listing them.
 
-| Item | Details |
-| --- | --- |
-| Type | Personal self-study program |
-| Fields | Mathematics, Computer Science, Languages |
-| Level | Terminale → Bac+5 (engineering level) |
-| Duration | September 2026 – September 2028 |
-| Context | Run in parallel with a CS engineering degree (Data Science & AI major) |
-| Rhythm | Weekends — Saturday: Mathematics & English · Sunday: Computer Science |
+## Two repositories, two roles
 
-## Objectives
+| Repository | Role |
+|---|---|
+| **Renaissance Project** (this repo) | *Learning*: plan, weekly exercises, notes, checkpoints, progress |
+| **[Aerolisa](https://github.com/YOUR-USERNAME/aerolisa)** | *Application*: the platform where everything learned here is built and shipped |
 
-- Rebuild real mathematical foundations, from Terminale through engineering level, verified rather than assumed
-- Write code independently, without AI assistance, across general computer science and applied AI/DS
-- Reach a really strong level in English, with working knowledge of Spanish and German
-- Build a small portfolio of real, defensible projects
-- Obtain a coherent set of recognized certifications
+## How it works
 
-## Skills Targeted
+- **Saturday = Mathematics · Sunday = Computer Science.** Full calendar in [PLAN.md](PLAN.md).
+- Each weekend has its own folder in [`weeks/`](weeks): topics, checklist, `math/` and `cs/` work, gaps and notes.
+- Four **checkpoints** 🔍 test everything from memory. Scores are logged honestly in [checkpoints/](checkpoints/README.md).
+- Exercises in `cs/` come with pytest tests; [CI](.github/workflows/ci.yml) runs them on every push.
 
-- Python, SQL, and standard data/ML tooling
-- Mathematics: analysis, algebra, probability & statistics, discrete mathematics, numerical methods, optimization
-- General computer science: algorithms & data structures, operating systems, networks, databases, distributed systems, security, system design
-- Applied AI/DS: classical machine learning, deep learning, NLP, generative AI, MLOps
-- Rigorous, self-directed study habits and clear technical documentation
+## My rules
 
-## Areas Covered
+1. **One pushed commit every weekend.** The contribution graph is the streak.
+2. **Minimum floor on bad weekends:** one hour and one commit. Never a zero week.
+3. **First attempt without AI.** AI reviews my work; it never writes the first version.
+4. **15-minute review every Sunday evening** with [the template](WEEKLY_REVIEW_TEMPLATE.md).
+5. **Cut scope, not dates.**
+6. **Protect rest.** At least one free half-day every weekend. Rest is part of the plan.
 
-| Domain | Content |
-| --- | --- |
-| Mathematics (Saturday) | Real & complex analysis, linear & abstract algebra, probability & statistics, discrete mathematics, numerical methods, optimization, Fourier analysis, vector calculus |
-| Computer Science (Sunday) | Algorithms & data structures, OS, networks, databases, distributed systems, system design, security, MLOps, classical & symbolic AI, reinforcement learning, generative AI, computer architecture, GPU/TPU hardware for AI |
-| Languages (English) | English (TOEIC → C1) |
-| Industry-specific | DO-178C, DO-254, DO-326A, ARP4754A (software/systems safety standards) |
+## Phases
 
-## Learning Plan
+| Phase | Period | Mathematics | Computer science | Aerolisa |
+|---|---|---|---|---|
+| 1 · Foundations | Sept.–Nov. 2026 | Logic, proofs, combinatorics, graphs, probability | Python, algorithms, data structures, Git, testing | CLI |
+| 2 · Data | Nov. 2026–Jan. 2027 | Statistics, reliability, linear algebra | SQL, pandas, ETL, Airflow, data architecture | **v0.1** |
+| 3 · Machine learning | Jan.–Mar. 2027 | Calculus, Bayes, optimization, inference, PCA | ML models, metrics, anomaly detection | **v0.2** |
+| 4 · TOEIC & industrialization | Mar. 2027 | Neural-network math, TOEIC practice | PyTorch, Docker | — |
+| 5 · Cloud & GenAI | Apr.–May 2027 | Norms, similarity, information theory, attention | GCP, CI/CD, FastAPI, LLMs, RAG, agents | **v0.3**, **v1.0** |
+| 6 · Interviews | May–Jun. 2027 | Interview questions | Portfolio, mock interviews, pitches | Demo |
 
-| Phase | Period | Topics Targeted |
-| --- | --- | --- |
-| Foundations | Sep – Nov 2026 | Python, SQL, Terminale mathematics diagnostic & rebuild, English |
-| Reintegration | Dec 2026 | Azure AI-900, Kaggle onboarding, closing remaining maths gaps |
-| ML Ramp-Up | Jan – Apr 2027 | Classical ML, algorithms & data structures, applied statistics, first project |
-| Specialization | Apr – Aug 2027 | Deep learning, discrete/complex mathematics |
-| Deployment | Aug 2027 – Feb 2028 | MLOps, system design, avionics software standards, NLP/generative AI |
-| Consolidation | Mar – Sep 2028 | Final-year project, full-curriculum review, applications |
+## Repository structure
 
-## Projects
-
-| # | Project | Domain | Stack |
-| --- | --- | --- | --- |
-| 1 | Predictive Maintenance | Time-series / classical ML & deep learning | C-MAPSS dataset, Random Forest, XGBoost, LSTM |
-| 2 | Anomaly Detection via FFT | Signal processing / unsupervised learning | FFT feature extraction, Isolation Forest, Autoencoder |
-| 3 | RAG for Maintenance Documentation | NLP / generative AI | LLM API, vector database, retrieval-augmented generation |
-
-## Repo Structure
-
-```
-Renaissance/
-├── 01-foundations/            # Phase 1 — Python + Terminale mathematics
-├── 02-ml-ramp-up/             # Phase 2 — Classical ML, algorithms, statistics
-├── 03-specialization/         # Phase 3 — Deep learning, discrete maths
-├── 04-deployment/             # Phase 4 — MLOps, system design, avionics standards
-├── 05-consolidation/          # Phase 5 — Final project, review, applications
-│
-├── projects/
-│   ├── project-1-predictive-maintenance/
-│   ├── project-2-anomaly-detection/
-│   └── project-3-rag-maintenance-docs/
-│
-├── notes/
-│   ├── math/                  # Per-topic notes, tagged by French academic level
-│   ├── cs/
-│   └── languages/
-│
-├── resources/                 # Reference links, cheat sheets, exam prep material
-└── README.md
+```text
+renaissance-project/
+├── .github/
+│   ├── workflows/ci.yml         # runs exercise tests on every push
+│   └── ISSUE_TEMPLATE/          # weekly review, gap to review
+├── checkpoints/README.md        # score log
+├── weeks/
+│   └── NN_topic/
+│       ├── README.md            # topics, checklist, gaps, notes
+│       ├── math/                # handwritten scans, notes, solutions
+│       └── cs/                  # code + tests
+├── PLAN.md                      # full calendar
+├── PROGRESS.md                  # weekends, releases, career milestones
+├── RESOURCES.md
+├── WEEKLY_REVIEW_TEMPLATE.md
+└── requirements.txt
 ```
 
-## Useful Resources
+## Getting started
 
-- Reference textbooks and course notes per subject (added as the program progresses)
-- Official documentation for tools used during the process (Python, scikit-learn, TensorFlow, Docker, AWS, Azure)
-- Certifications: Azure AI-900, AWS Certified Machine Learning – Specialty, DeepLearning.AI specializations (Deep Learning, NLP, Generative AI with LLMs), TensorFlow Developer Certificate
+```bash
+git clone https://github.com/YOUR-USERNAME/renaissance-project.git
+cd renaissance-project
+python -m venv .venv && source .venv/bin/activate
+pip install -r requirements.txt
+pytest -q
+```
+
+## Progress
+
+[PROGRESS.md](PROGRESS.md) · [Checkpoints](checkpoints/README.md)
+
+## Author
+
+**YOUR NAME**, engineering student in computer science (AI & data science), CESI.
+[LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN) · [Portfolio](https://YOUR-USERNAME.github.io)
+
+## License
+
+Code under the [MIT License](LICENSE). Notes may be reused with attribution.
