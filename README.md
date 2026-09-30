@@ -72,7 +72,7 @@ pytest -q
 
 ## Author
 
-**Manil DOUDOU**, engineering student in computer science (AI & data science) @ CESI.
+**Manil DOUDOU**, engineering student in computer science (AI & Data Science).
 
 ## License
 
