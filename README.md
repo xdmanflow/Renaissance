@@ -1,4 +1,4 @@
-# 🏔️ Renaissance Project: The Way to the Peak in CS
+# Renaissance Project: The Way to the Peak in CS & Maths
 
 > A public, one-year learning plan (Sept. 2026 → Sept. 2027): mathematics for machine learning, computer-science fundamentals, data engineering, machine learning, cloud and generative AI. Every weekend's learning is applied to **[Aerolisa](https://github.com/YOUR-USERNAME/aerolisa)**, a Skywise-inspired aviation data platform.
 
