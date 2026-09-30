@@ -66,10 +66,6 @@ pip install -r requirements.txt
 pytest -q
 ```
 
-## Progress
-
-[PROGRESS.md](PROGRESS.md) · [Checkpoints](checkpoints/README.md)
-
 ## Author
 
 **Manil DOUDOU**, engineering student in computer science (AI & Data Science).
