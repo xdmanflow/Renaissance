@@ -1,8 +1,6 @@
 # Renaissance Project: The Way to the Peak in CS & Maths
 
-> A public, one-year learning plan (Sept. 2026 → Sept. 2027): mathematics for machine learning, computer-science fundamentals, data engineering, machine learning, cloud and generative AI. Every weekend's learning is applied to **[AeroLisa](https://github.com/YOUR-USERNAME/aerolisa)**, a Skywise-inspired aviation data platform.
-
-> **Independent learning project, not affiliated with, endorsed by, or connected to Airbus, Palantir or Skywise.** Only public data is used. Company and product names are cited for context only.
+> A public, one-year learning plan (Sept. 2026 → Sept. 2027) covering mathematics for machine learning, computer-science fundamentals, data engineering, machine learning, cloud and generative AI, with every weekend's learning applied to AeroLisa, a Skywise-inspired aviation data platform built only on public data. This is an independent learning project, not affiliated with, endorsed by, or connected to Airbus, Palantir or Skywise; company and product names are cited for context only.
 
 ## The goal
 
