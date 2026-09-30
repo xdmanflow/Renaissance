@@ -73,7 +73,7 @@ pytest -q
 ## Author
 
 **Manil DOUDOU**, engineering student in computer science (AI & data science), CESI.
-[LinkedIn](https://www.linkedin.com/in/manil-doudou-4745923a0) · [Portfolio](https://xdmanflow.github.io)
+[LinkedIn](https://www.linkedin.com/in/manil-doudou-4745923a0)
 
 ## License
 
