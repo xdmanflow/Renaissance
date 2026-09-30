@@ -39,7 +39,7 @@
 ## Repository structure
 
 ```text
-renaissance-project/
+renaissance/
 ├── .github/
 │   ├── workflows/ci.yml         # runs exercise tests on every push
 │   └── ISSUE_TEMPLATE/          # weekly review, gap to review
