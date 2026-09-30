@@ -13,7 +13,7 @@ An engineering alternance in aviation data and AI starting **September 2027**, w
 | Repository | Role |
 |---|---|
 | **Renaissance Project** (this repo) | *Learning*: plan, weekly exercises, notes, checkpoints, progress |
-| **[AeroLisa](https://github.com/YOUR-USERNAME/aerolisa)** | *Application*: the platform where everything learned here is built and shipped |
+| **[AeroLisa Project](https://github.com/YOUR-USERNAME/aerolisa)** | *Application*: the platform where everything learned here is built and shipped |
 
 ## How it works
 
