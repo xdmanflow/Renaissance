@@ -27,7 +27,7 @@
 
 ## Phases
 
-| Phase | Period | Mathematics | Computer science | Aerolisa |
+| Phase | Period | Mathematics | Computer science | AeroLisa |
 |---|---|---|---|---|
 | 1 · Foundations | Sept.–Nov. 2026 | Logic, proofs, combinatorics, graphs, probability | Python, algorithms, data structures, Git, testing | CLI |
 | 2 · Data | Nov. 2026–Jan. 2027 | Statistics, reliability, linear algebra | SQL, pandas, ETL, Airflow, data architecture | **v0.1** |
@@ -39,7 +39,7 @@
 ## Repository structure
 
 ```text
-renaissance/
+renaissance-project/
 ├── .github/
 │   ├── workflows/ci.yml         # runs exercise tests on every push
 │   └── ISSUE_TEMPLATE/          # weekly review, gap to review
@@ -59,7 +59,7 @@ renaissance/
 ## Getting started
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/renaissance-project.git
+git clone https://github.com/xdmanflow/renaissance-project.git
 cd renaissance-project
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
@@ -73,7 +73,7 @@ pytest -q
 ## Author
 
 **Manil DOUDOU**, engineering student in computer science (AI & data science), CESI.
-[LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN) · [Portfolio](https://YOUR-USERNAME.github.io)
+[LinkedIn](https://www.linkedin.com/in/manil-doudou-4745923a0) · [Portfolio](https://xdmanflow.github.io)
 
 ## License
 
