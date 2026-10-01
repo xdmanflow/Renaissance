@@ -1,4 +1,4 @@
-# 📅 The plan
+# The plan
 
 | # | Weekend | 🧮 Saturday: Mathematics | 💻 Sunday: Computer Science | 🎯 Milestone |
 |---|---|---|---|---|
