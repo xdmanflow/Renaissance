@@ -1,7 +1,3 @@
-# ✅ Progress
-
-Honest log: a missed weekend stays unticked, with a note.
-
 | # | Weekend | Math | CS | Commit | Review | Note |
 |---|---|---|---|---|---|---|
 | 01 | Sept. 26–27, 2026 | ☐ | ☐ | ☐ | ☐ | |
