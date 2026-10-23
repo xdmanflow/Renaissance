@@ -7,7 +7,7 @@
 | Repository | Role |
 |---|---|
 | **Renaissance Project** | *Learning*: plan, weekly exercises, notes, checkpoints, progress |
-| **[AeroLisa Project](https://github.com/YOUR-USERNAME/aerolisa)** | *Application*: the platform where everything learned here is built and shipped |
+| **[Aerolisa Project](https://github.com/xdmanflow/aerolisa)** | *Application*: the platform where everything learned here is built and shipped |
 
 ## How it works
 
