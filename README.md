@@ -4,8 +4,8 @@
 
 ## North star
 
-1. **Next:** an apprenticeship (alternance) at **Airbus, Skywise ecosystem, Toulouse**, starting September 2027, and a first job there after it.
-2. **Then:** a data & AI specialist in the aerospace, space & defence (ASD) industry, in Europe or the USA.
+1. **Next:** an apprenticeship (alternance) at **Airbus, Skywise ecosystem, Toulouse**, starting September 2027.
+2. **Then:** a job as a data & AI specialist in the aerospace, space & defence (ASD) industry, in Europe or USA.
 
 Everything in this repository is ordered by how much it moves me toward step 1. Nothing is here "just because".
 
