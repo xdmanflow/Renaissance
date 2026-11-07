@@ -1,6 +1,6 @@
 # Renaissance: the Data & AI curriculum to Airbus Skywise
 
-> My public curriculum to become a complete **data engineer, data analyst and data scientist for aerospace**, with **Palantir Foundry** (the platform behind Airbus Skywise) at its centre. Every module is applied in **[Aerolisa](https://github.com/xdmanflow/Aerolisa)**, my flagship project. Independent learning project, not affiliated with, endorsed by, or connected to Airbus, Skywise or Palantir.
+> My public curriculum to become a complete **data engineer, data analyst and data scientist for aerospace**, with **Palantir Foundry** (the platform behind Airbus Skywise) at its centre. Every module is applied in **[Aerolisa](https://github.com/xdmanflow/Aerolisa)**, my flagship project. Independent learning project, not affiliated with, or connected to Airbus, Skywise or Palantir.
 
 ## North star
 
