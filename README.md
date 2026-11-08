@@ -13,7 +13,7 @@ Everything in this repository is ordered by how much it moves me toward step 1. 
 
 | Repository | Role | When |
 |---|---|---|
-| **Renaissance** (this repo) | *Learn*: modules, exercises, notes, exit tests, career prep | Saturday + commute |
+| **Renaissance** | *Learn*: modules, exercises, notes, exit tests, career prep | Saturday |
 | **[Aerolisa](https://github.com/xdmanflow/Aerolisa)** | *Build*: the flagship platform where every module is applied and shown to recruiters | Sunday |
 
 Each Renaissance module names the Aerolisa milestone it feeds. Learning without building is not allowed; building without the learning behind it is fragile.
